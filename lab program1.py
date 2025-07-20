@@ -1,0 +1,12 @@
+#to take input for two nos and perform all mathematic operation 
+a=int(input("enter the first no"))
+b=int(input("enter the second  no"))
+sum=(a+b)
+print("sum:",sum)
+diff=(a-b)
+print("diff:",diff)
+mul=(a*b)
+print("mul:",mul)
+divi=(a/b)
+print("divi:",divi)
+print("end")
